@@ -1,0 +1,113 @@
+slots: [
+    "primary"
+    "secondary"
+    "melee"
+]
+
+weapons: [
+    
+]
+
+weapons:
+    primary: [
+        [
+            "Flame Thrower"
+            "Festive Flame Thrower"
+            "Silver Botkiller Flame Thrower Mk.I"
+            "Gold Botkiller Flame Thrower Mk.I"
+            "Rust Botkiller Flame Thrower Mk.I"
+            "Blood Botkiller Flame Thrower Mk.I"
+            "Carbonado Botkiller Flame Thrower Mk.I"
+            "Diamond Botkiller Flame Thrower Mk.I"
+            "Silver Botkiller Flame Thrower Mk.II"
+            "Gold Botkiller Flame Thrower Mk.II"
+            "Nostromo Napalmer"
+            "Barn Burner Flame Thrower"
+            "Bovine Blazemaker Flame Thrower"
+            "Earth, Sky and Fire Flame Thrower"
+            "Flash Fryer Flame Thrower"
+            "Forest Fire Flame Thrower"
+            "Turbine Torcher Flame Thrower"
+        ]
+        [
+            "Backburner"
+            "Festive Backburner"
+        ]
+        [
+            "Degreaser"
+        ]
+        [
+            "Phlogistinator"
+        ]
+        [
+            "Rainblower"
+        ]
+    ]
+    secondary: [
+        [
+            "Shotgun"
+            "Festive Shotgun"
+            "Backwoods Boomstick Shotgun"
+            "Civic Duty Shotgun"
+            "Lightning Rod Shotgun"
+            "Rustic Ruiner Shotgun"
+        ]
+        [
+            "Flare Gun"
+            "Festive Flare Gun"
+        ]
+        [
+            "Detonator"
+        ]
+        [
+            "Reserve Shooter"
+        ]
+        [
+            "Manmelter"
+        ]
+        [
+            "Scorch Shot"
+        ]
+        [
+            "Panic Attack"
+        ]
+    ]
+    melee: [
+        [
+            "Fire Axe"
+            "Saxxy"
+            "Conscientious Objector"
+            "Freedom Staff"
+            "Bat Outta Hell"
+            "Memory Maker"
+            "Ham Shank"
+            "Golden Frying Pan"
+            "Necro Smasher"
+            "Crossing Guard"
+            "Lollichop"
+        ]
+        [
+            "Axtinguisher"
+            "Postal Pummeler"
+            "Festive Axtinguisher"
+        ]
+        [
+            "Homewrecker"
+            "Maul"
+        ]
+        [
+            "Powerjack"
+        ]
+        [
+            "Back Scratcher"
+        ]
+        [
+            "Sharpened Volcano Fragment"
+        ]
+        [
+            "Third Degree"
+        ]
+        [
+            "Neon Annihilator"
+        ]
+    ]

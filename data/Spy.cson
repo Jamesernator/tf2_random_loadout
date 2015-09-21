@@ -1,0 +1,83 @@
+melee: [
+    [
+        "Knife"
+        "Saxxy"
+        "Sharp Dresser"
+        "Festive Knife"
+        "Black Rose"
+        "Silver Botkiller Knife Mk.I"
+        "Gold Botkiller Knife Mk.I"
+        "Rust Botkiller Knife Mk.I"
+        "Blood Botkiller Knife Mk.I"
+        "Carbonado Botkiller Knife Mk.I"
+        "Diamond Botkiller Knife Mk.I"
+        "Silver Botkiller Knife Mk.II"
+        "Gold Botkiller Knife Mk.II"
+        "Golden Frying Pan"
+    ]
+    [
+        "Your Eternal Reward"
+        "Wanga Prick"
+    ]
+    [
+        "Conniver's Kunai"
+    ]
+    [
+        "Big Earner"
+    ]
+    [
+        "Spy-cicle"
+    ]
+]
+secondary: [
+    [
+        "Revolver"
+        "Big Kill"
+        "Festive Revolver"
+        "Dead Reckoner Revolver"
+        "Mayor Revolver"
+        "Old Country Revolver"
+    ]
+    [
+        "Ambassador"
+        "Festive Ambassador"
+    ]
+    [
+        "L'Etranger"
+    ]
+    [
+        "Enforcer"
+    ]
+    [
+        "Diamondback"
+    ]
+]
+pda: [
+    [
+        "Disguise Kit"
+    ]
+]
+pda2: [
+    [
+        "Invis Watch"
+        "Enthusiast's Timepiece"
+        "Quäckenbirdt"
+    ]
+    [
+        "Dead Ringer"
+    ]
+    [
+        "Cloak and Dagger"
+    ]
+]
+building: [
+    [
+        "Sapper"
+        "Ap-Sap"
+        "Snack Attack"
+        "Festive Sapper"
+    ]
+    [
+        "Red-Tape Recorder"
+    ]
+]

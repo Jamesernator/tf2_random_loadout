@@ -1,0 +1,113 @@
+slots: [
+    "primary"
+    "secondary"
+    "melee"
+]
+
+stock:
+    primary: "Grenade Launcher"
+    secondary: "Stickybomb Launcher"
+    melee: "Bottle"
+
+weapons:
+    primary: [
+        [
+            "Grenade Launcher"
+            "Festive Grenade Launcher"
+        ]
+        [
+            "B.A.S.E. Jumper"
+        ]
+        [
+            "Loch-n-Load"
+        ]
+        [
+            "Ali Baba's Wee Booties"
+            "Bootlegger"
+        ]
+        [
+            "Loose Cannon"
+        ]
+        [
+            "Iron Bomber"
+        ]
+    ]
+    secondary: [
+        [
+            "Stickybomb Launcher"
+            "Festive Stickybomb Launcher"
+            "Silver Botkiller Stickybomb Launcher Mk.I"
+            "Gold Botkiller Stickybomb Launcher Mk.I"
+            "Rust Botkiller Stickybomb Launcher Mk.I"
+            "Blood Botkiller Stickybomb Launcher Mk.I"
+            "Carbonado Botkiller Stickybomb Launcher Mk.I"
+            "Diamond Botkiller Stickybomb Launcher Mk.I"
+            "Silver Botkiller Stickybomb Launcher Mk.II"
+            "Gold Botkiller Stickybomb Launcher Mk.II"
+            "Blasted Bombardier Stickybomb Launcher"
+            "Carpet Bomber Stickybomb Launcher"
+            "Liquid Asset Stickybomb Launcher"
+            "Pink Elephant Stickybomb Launcher"
+            "Rooftop Wrangler Stickybomb Launcher"
+            "Sudden Flurry Stickybomb Launcher"
+        ]
+        [
+            "Scottish Resistance"
+        ]
+        [
+            "Chargin' Targe"
+            "Festive Chargin' Targe"
+        ]
+        [
+            "Sticky Jumper"
+        ]
+        [
+            "Splendid Screen"
+        ]
+        [
+            "Tide Turner"
+        ]
+        [
+            "Quickiebomb Launcher"
+        ]
+    ]
+    melee: [
+        [
+            "Bottle"
+            "Scottish Handshake"
+            "Saxxy"
+            "Conscientious Objector"
+            "Freedom Staff"
+            "Bat Outta Hell"
+            "Memory Maker"
+            "Ham Shank"
+            "Golden Frying Pan"
+            "Necro Smasher"
+            "Crossing Guard"
+            "Frying Pan"
+        ]
+        [
+            "Eyelander"
+            "Festive Eyelander"
+            "Horseless Headless Horsemann's Headtaker"
+            "Nessie's Nine Iron"
+        ]
+        [
+            "Pain Train"
+        ]
+        [
+            "Scotsman's Skullcutter"
+        ]
+        [
+            "Ullapool Caber"
+        ]
+        [
+            "Claidheamh Mòr"
+        ]
+        [
+            "Half-Zatoichi"
+        ]
+        [
+            "Persian Persuader"
+        ]
+    ]

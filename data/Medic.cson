@@ -1,0 +1,84 @@
+slots: [
+    'primary'
+    'secondary'
+    'melee'
+]
+
+stock:
+    primary: "Syringe Gun"
+    secondary: "Medi Gun"
+    melee: "Bonesaw"
+
+weapons:
+    primary: [
+        [
+            "Syringe Gun"
+        ]
+        [
+            "Blutsauger"
+        ]
+        [
+            "Crusader's Crossbow"
+            "Festive Crusader's Crossbow"
+        ]
+        [
+            "Overdose"
+        ]
+    ]
+    secondary: [
+        [
+            "Medi Gun"
+            "Festive Medi Gun"
+            "Silver Botkiller Medi Gun Mk.I"
+            "Gold Botkiller Medi Gun Mk.I"
+            "Rust Botkiller Medi Gun Mk.I"
+            "Blood Botkiller Medi Gun Mk.I"
+            "Carbonado Botkiller Medi Gun Mk.I"
+            "Diamond Botkiller Medi Gun Mk.I"
+            "Silver Botkiller Medi Gun Mk.II"
+            "Gold Botkiller Medi Gun Mk.II"
+            "Civil Servant Medi Gun"
+            "Masked Mender Medi Gun"
+            "Reclaimed Reanimator Medi Gun"
+            "Spark of Life Medi Gun"
+            "Wrapped Reviver Medi Gun"
+        ]
+        [
+            "Kritzkrieg"
+        ]
+        [
+            "Quick-Fix"
+        ]
+        [
+            "Vaccinator"
+        ]
+    ]
+    melee: [
+        [
+            "Bonesaw"
+            "Frying Pan"
+            "Saxxy"
+            "Conscientious Objector"
+            "Freedom Staff"
+            "Bat Outta Hell"
+            "Memory Maker"
+            "Ham Shank"
+            "Golden Frying Pan"
+            "Necro Smasher"
+            "Crossing Guard"
+            "Festive Bonesaw"
+        ]
+        [
+            "Ubersaw"
+            "Festive Ubersaw"
+        ]
+        [
+            "Vita-Saw"
+        ]
+        [
+            "Amputator"
+        ]
+        [
+            "Solemn Vow"
+        ]
+    ]

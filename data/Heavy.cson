@@ -1,0 +1,108 @@
+slots: [
+    "primary"
+    "secondary"
+    "melee"
+]
+
+stock:
+    primary: "Minigun"
+    secondary: "Shotgun"
+    melee: "Fists"
+
+weapons:
+    primary: [
+        [
+            "Minigun"
+            "Festive Minigun"
+            "Silver Botkiller Minigun Mk.I"
+            "Gold Botkiller Minigun Mk.I"
+            "Iron Curtain"
+            "Rust Botkiller Minigun Mk.I"
+            "Blood Botkiller Minigun Mk.I"
+            "Carbonado Botkiller Minigun Mk.I"
+            "Diamond Botkiller Minigun Mk.I"
+            "Silver Botkiller Minigun Mk.II"
+            "Gold Botkiller Minigun Mk.II"
+            "Antique Annihilator Minigun"
+            "Brick House Minigun"
+            "Citizen Pain Minigun"
+            "Iron Wood Minigun"
+            "Lightning Rod Shotgun"
+            "War Room Minigun"
+        ]
+        [
+            "Natascha"
+        ]
+        [
+            "Brass Beast"
+        ]
+        [
+            "Tomislav"
+        ]
+        [
+            "Huo-Long Heater"
+        ]
+    ]
+    secondary: [
+        [
+            "Shotgun"
+            "Festive Shotgun"
+            "Backwoods Boomstick Shotgun"
+            "Civic Duty Shotgun"
+            "Rustic Ruiner Shotgun"
+        ]
+        [
+            "Sandvich"
+            "Robo-Sandvich"
+            "Festive Sandvich"
+        ]
+        [
+            "Dalokohs Bar"
+            "Fishcake"
+        ]
+        [
+            "Buffalo Steak Sandvich"
+        ]
+        [
+            "Family Business"
+        ]
+        [
+            "Panic Attack"
+        ]
+    ]
+    melee: [
+        [
+            "Fists"
+            "Apoco-Fists"
+            "Saxxy"
+            "Conscientious Objector"
+            "Freedom Staff"
+            "Bat Outta Hell"
+            "Memory Maker"
+            "Ham Shank"
+            "Golden Frying Pan"
+            "Necro Smasher"
+            "Crossing Guard"
+            "Frying Pan"
+        ]
+        [
+            "Killing Gloves of Boxing"
+            "Festive Gloves of Running Urgently"
+            "Bread Bite"
+        ]
+        [
+            "Gloves of Running Urgently"
+        ]
+        [
+            "Warrior's Spirit"
+        ]
+        [
+            "Fists of Steel"
+        ]
+        [
+            "Eviction Notice"
+        ]
+        [
+            "Holiday Punch"
+        ]
+    ]

@@ -1,0 +1,106 @@
+slots: [
+    "primary"
+    "secondary"
+    "melee"
+    "pda"
+    "pda2"
+]
+
+stock:
+    primary: "Shotgun"
+    secondary: "Pistol"
+    melee: "Wrench"
+    pda: "Construction PDA"
+    pda2: "Destruction PDA"
+
+weapons:
+    primary: [
+        [
+            "Shotgun"
+            "Festive Shotgun"
+            "Backwoods Boomstick Shotgun"
+            "Civic Duty Shotgun"
+            "Lightning Rod Shotgun"
+            "Rustic Ruiner Shotgun"
+        ]
+        [
+            "Frontier Justice"
+            "Festive Frontier Justice"
+        ]
+        [
+            "Widowmaker"
+        ]
+        [
+            "Pomson 6000"
+        ]
+        [
+            "Rescue Ranger"
+        ]
+        [
+            "Panic Attack"
+        ]
+    ]
+    secondary: [
+        [
+            "Pistol"
+            "Lugermorph"
+            "Black Dahlia Pistol"
+            "Hickory Hole-Puncher Pistol"
+            "Homemade Heater Pistol"
+            "Local Hero Pistol"
+            "Red Rock Roscoe Pistol"
+            "Sandstone Special Pistol"
+        ]
+        [
+            "Wrangler"
+            "Festive Wrangler"
+        ]
+        [
+            "Short Circuit"
+        ]
+    ]
+    melee: [
+        [
+            "Wrench"
+            "Golden Wrench"
+            "Saxxy"
+            "Festive Wrench"
+            "Silver Botkiller Wrench Mk.I"
+            "Gold Botkiller Wrench Mk.I"
+            "Rust Botkiller Wrench Mk.I"
+            "Blood Botkiller Wrench Mk.I"
+            "Carbonado Botkiller Wrench Mk.I"
+            "Diamond Botkiller Wrench Mk.I"
+            "Silver Botkiller Wrench Mk.II"
+            "Gold Botkiller Wrench Mk.II"
+            "Golden Frying Pan"
+            "Necro Smasher"
+        ]
+        [
+            "Gunslinger"
+        ]
+        [
+            "Southern Hospitality"
+        ]
+        [
+            "Jag"
+        ]
+        [
+            "Eureka Effect"
+        ]
+    ]
+    pda: [
+        [
+            "Construction PDA"
+        ]
+    ]
+    pda2: [
+        [
+            "Destruction PDA"
+        ]
+    ]
+    building: [
+        [
+            "PDA"
+        ]
+    ]
