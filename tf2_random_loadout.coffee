@@ -4,7 +4,6 @@
 _ = require('underscore')
 s = require('underscore.string')
 fs = require('fs')
-async = require('./async.coffee')
 CSON = require('cson')
 process = require('process')
 ArgumentParser = require('argparse').ArgumentParser
@@ -107,7 +106,7 @@ parser.addArgument ['--ignore-nonexistent-weapons'],
 
 # -------
 
-expand_weight_map = (map) ->
+expandWeightMap = (map) ->
     iter = map[Symbol.iterator]()
     result = []
     infinites = []
@@ -127,11 +126,11 @@ expand_weight_map = (map) ->
         return result
 
 
-weighted_choice = (map) ->
-    list = expand_weight_map(map)
+weightedChoice = (map) ->
+    list = expandWeightMap(map)
     return _.sample(list)
 
-load_class_data = ->
+loadClassData = ->
     # This loads all the data from the class files
     data = {}
     for _class in CLASSES
@@ -139,11 +138,10 @@ load_class_data = ->
         data[_class] = CSON.load(filename)
     return data
 
-select_class = (args) ->
+selectClass = (args) ->
     classes = args.class ? CLASSES
     if args.exclude_class?
         classes = _.without(classes, args.exclude_class...)
-        console.log classes
 
     weighted = new Map()
     for _class in classes
@@ -152,12 +150,13 @@ select_class = (args) ->
     for [_class, weight] in args.weighted_class ? []
         weighted.set(_class, weight)
 
-    return weighted_choice(weighted)
+    return weightedChoice(weighted)
+
 
 
 main = ->
     args = parser.parseArgs()
-    _class = select_class(args)
+    _class = selectClass(args)
     console.log _class.toUpperCase()
 
 main()
