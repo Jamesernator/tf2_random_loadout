@@ -1,12 +1,15 @@
+class: "Pyro"
+
 slots: [
     "primary"
     "secondary"
     "melee"
 ]
 
-weapons: [
-    
-]
+stock:
+    primary: "Flame Thrower"
+    secondary: "Shotgun"
+    melee: "Fire Axe"
 
 weapons:
     primary: [
@@ -28,6 +31,13 @@ weapons:
             "Flash Fryer Flame Thrower"
             "Forest Fire Flame Thrower"
             "Turbine Torcher Flame Thrower"
+            "Pumpkin Patch Flame Thrower"
+            "Autumn Flame Thrower"
+            "Nutcracker Flame Thrower"
+            "Coffin Nail Flame Thrower"
+            "Rainbow Flame Thrower"
+            "Balloonicorn Flame Thrower"
+            "Warhawk Flame Thrower"
         ]
         [
             "Backburner"
@@ -51,6 +61,11 @@ weapons:
             "Civic Duty Shotgun"
             "Lightning Rod Shotgun"
             "Rustic Ruiner Shotgun"
+            "Autumn Shotgun"
+            "Coffin Nail Shotgun"
+            "Dressed to Kill Shotgun"
+            "Flower Power Shotgun"
+            "Red Bear Shotgun"
         ]
         [
             "Flare Gun"

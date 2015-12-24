@@ -1,116 +1,141 @@
-primary: [
-    [
-        "Rocket Launcher"
-        "Festive Rocket Launcher"
-        "Silver Botkiller Rocket Launcher Mk.I"
-        "Gold Botkiller Rocket Launcher Mk.I"
-        "Rust Botkiller Rocket Launcher Mk.I"
-        "Blood Botkiller Rocket Launcher Mk.I"
-        "Carbonado Botkiller Rocket Launcher Mk.I"
-        "Diamond Botkiller Rocket Launcher Mk.I"
-        "Silver Botkiller Rocket Launcher Mk.II"
-        "Gold Botkiller Rocket Launcher Mk.II"
-        "American Pastoral Rocket Launcher"
-        "Aqua Marine Rocket Launcher"
-        "Sand Cannon Rocket Launcher"
-        "Shell Shocker Rocket Launcher"
-        "Smalltown Bringdown Rocket Launcher"
-        "Woodland Warrior Rocket Launcher"
-    ]
-    [
-        "Direct Hit"
-    ]
-    [
-        "Black Box"
-        "Festive Black Box"
-    ]
-    [
-        "Rocket Jumper"
-    ]
-    [
-        "Liberty Launcher"
-    ]
-    [
-        "Cow Mangler 5000"
-    ]
-    [
-        "Original"
-    ]
-    [
-        "Beggar's Bazooka"
-    ]
-    [
-        "Air Strike"
-    ]
+class: "Soldier"
+
+slots: [
+    "primary"
+    "secondary"
+    "melee"
 ]
-secondary: [
-    [
-        "Shotgun"
-        "Festive Shotgun"
-        "Backwoods Boomstick Shotgun"
-        "Civic Duty Shotgun"
-        "Lightning Rod Shotgun"
-        "Rustic Ruiner Shotgun"
+
+stock:
+    primary: "Rocket Launcher"
+    secondary: "Shotgun"
+    melee: "Shovel"
+
+weapons:
+    primary: [
+        [
+            "Rocket Launcher"
+            "Festive Rocket Launcher"
+            "Silver Botkiller Rocket Launcher Mk.I"
+            "Gold Botkiller Rocket Launcher Mk.I"
+            "Rust Botkiller Rocket Launcher Mk.I"
+            "Blood Botkiller Rocket Launcher Mk.I"
+            "Carbonado Botkiller Rocket Launcher Mk.I"
+            "Diamond Botkiller Rocket Launcher Mk.I"
+            "Silver Botkiller Rocket Launcher Mk.II"
+            "Gold Botkiller Rocket Launcher Mk.II"
+            "American Pastoral Rocket Launcher"
+            "Aqua Marine Rocket Launcher"
+            "Sand Cannon Rocket Launcher"
+            "Shell Shocker Rocket Launcher"
+            "Smalltown Bringdown Rocket Launcher"
+            "Woodland Warrior Rocket Launcher"
+            "Autumn Rocket Launcher"
+            "Coffin Nail Rocket Launcher"
+            "High Roller's Rocket Launcher"
+            "Blue Mew Rocket Launcher"
+            "Brain Candy Rocket Launcher"
+            "Warhawk Rocket Launcher"
+        ]
+        [
+            "Direct Hit"
+        ]
+        [
+            "Black Box"
+            "Festive Black Box"
+        ]
+        [
+            "Rocket Jumper"
+        ]
+        [
+            "Liberty Launcher"
+        ]
+        [
+            "Cow Mangler 5000"
+        ]
+        [
+            "Original"
+        ]
+        [
+            "Beggar's Bazooka"
+        ]
+        [
+            "Air Strike"
+        ]
     ]
-    [
-        "Buff Banner"
-        "Festive Buff Banner"
+    secondary: [
+        [
+            "Shotgun"
+            "Festive Shotgun"
+            "Backwoods Boomstick Shotgun"
+            "Civic Duty Shotgun"
+            "Lightning Rod Shotgun"
+            "Rustic Ruiner Shotgun"
+            "Autumn Shotgun"
+            "Coffin Nail Shotgun"
+            "Dressed to Kill Shotgun"
+            "Flower Power Shotgun"
+            "Red Bear Shotgun"
+        ]
+        [
+            "Buff Banner"
+            "Festive Buff Banner"
+        ]
+        [
+            "Gunboats"
+        ]
+        [
+            "Battalion's Backup"
+        ]
+        [
+            "Concheror"
+        ]
+        [
+            "Reserve Shooter"
+        ]
+        [
+            "Righteous Bison"
+        ]
+        [
+            "Mantreads"
+        ]
+        [
+            "B.A.S.E. Jumper"
+        ]
+        [
+            "Panic Attack"
+        ]
     ]
-    [
-        "Gunboats"
+    melee: [
+        [
+            "Shovel"
+            "Saxxy"
+            "Conscientious Objector"
+            "Freedom Staff"
+            "Bat Outta Hell"
+            "Memory Maker"
+            "Ham Shank"
+            "Golden Frying Pan"
+            "Necro Smasher"
+            "Crossing Guard"
+            "Frying Pan"
+        ]
+        [
+            "Equalizer"
+        ]
+        [
+            "Pain Train"
+        ]
+        [
+            "Half-Zatoichi"
+        ]
+        [
+            "Market Gardener"
+        ]
+        [
+            "Disciplinary Action"
+        ]
+        [
+            "Escape Plan"
+        ]
     ]
-    [
-        "Battalion's Backup"
-    ]
-    [
-        "Concheror"
-    ]
-    [
-        "Reserve Shooter"
-    ]
-    [
-        "Righteous Bison"
-    ]
-    [
-        "Mantreads"
-    ]
-    [
-        "B.A.S.E. Jumper"
-    ]
-    [
-        "Panic Attack"
-    ]
-]
-melee: [
-    [
-        "Shovel"
-        "Saxxy"
-        "Conscientious Objector"
-        "Freedom Staff"
-        "Bat Outta Hell"
-        "Memory Maker"
-        "Ham Shank"
-        "Golden Frying Pan"
-        "Necro Smasher"
-        "Crossing Guard"
-        "Frying Pan"
-    ]
-    [
-        "Equalizer"
-    ]
-    [
-        "Pain Train"
-    ]
-    [
-        "Half-Zatoichi"
-    ]
-    [
-        "Market Gardener"
-    ]
-    [
-        "Disciplinary Action"
-    ]
-    [
-        "Escape Plan"
-    ]
-]

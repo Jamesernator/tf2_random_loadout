@@ -1,93 +1,120 @@
-primary: [
-    [
-        "Sniper Rifle"
-        "AWPer Hand"
-        "Festive Sniper Rifle"
-        "Silver Botkiller Sniper Rifle Mk.I"
-        "Gold Botkiller Sniper Rifle Mk.I"
-        "Rust Botkiller Sniper Rifle Mk.I"
-        "Blood Botkiller Sniper Rifle Mk.I"
-        "Carbonado Botkiller Sniper Rifle Mk.I"
-        "Diamond Botkiller Sniper Rifle Mk.I"
-        "Silver Botkiller Sniper Rifle Mk.II"
-        "Gold Botkiller Sniper Rifle Mk.II"
-        "Bogtrotter Sniper Rifle"
-        "Lumber From Down Under Sniper Rifle"
-        "Night Owl Sniper Rifle"
-        "Purple Range Sniper Rifle"
-        "Shot in the Dark Sniper Rifle"
-        "Thunderbolt Sniper Rifle"
-    ]
-    [
-        "Huntsman"
-        "Fortified Compound"
-        "Festive Huntsman"
-    ]
-    [
-        "Sydney Sleeper"
-    ]
-    [
-        "Bazaar Bargain"
-    ]
-    [
-        "Machina"
-    ]
-    [
-        "Hitman's Heatmaker"
-    ]
-    [
-        "Classic"
-    ]
+class: "Sniper"
+
+slots: [
+    "primary"
+    "secondary"
+    "melee"
 ]
-secondary: [
-    [
-        "SMG"
-        "Festive SMG"
-        "Low Profile SMG"
-        "Plaid Potshotter SMG"
-        "Team Sprayer SMG"
-        "Treadplate Tormenter SMG"
-        "Woodsy Widowmaker SMG"
+
+stock:
+    primary: "Sniper Rifle"
+    secondary: "SMG"
+    melee: "Kukri"
+
+weapons:
+    primary: [
+        [
+            "Sniper Rifle"
+            "AWPer Hand"
+            "Festive Sniper Rifle"
+            "Silver Botkiller Sniper Rifle Mk.I"
+            "Gold Botkiller Sniper Rifle Mk.I"
+            "Rust Botkiller Sniper Rifle Mk.I"
+            "Blood Botkiller Sniper Rifle Mk.I"
+            "Carbonado Botkiller Sniper Rifle Mk.I"
+            "Diamond Botkiller Sniper Rifle Mk.I"
+            "Silver Botkiller Sniper Rifle Mk.II"
+            "Gold Botkiller Sniper Rifle Mk.II"
+            "Bogtrotter Sniper Rifle"
+            "Lumber From Down Under Sniper Rifle"
+            "Night Owl Sniper Rifle"
+            "Purple Range Sniper Rifle"
+            "Shot in the Dark Sniper Rifle"
+            "Thunderbolt Sniper Rifle"
+            "Shooting Star"
+            "Boneyard Sniper Rifle"
+            "Pumpkin Patch Sniper Rifle"
+            "Wildwood Sniper Rifle"
+            "Coffin Nail Sniper Rifle"
+            "Dressed to Kill Sniper Rifle"
+            "Rainbow Sniper Rifle"
+            "Balloonicorn Sniper Rifle"
+            "Airwolf Sniper Rifle"
+        ]
+        [
+            "Huntsman"
+            "Fortified Compound"
+            "Festive Huntsman"
+        ]
+        [
+            "Sydney Sleeper"
+        ]
+        [
+            "Bazaar Bargain"
+        ]
+        [
+            "Machina"
+        ]
+        [
+            "Hitman's Heatmaker"
+        ]
+        [
+            "Classic"
+        ]
     ]
-    [
-        "Razorback"
+    secondary: [
+        [
+            "SMG"
+            "Festive SMG"
+            "Low Profile SMG"
+            "Plaid Potshotter SMG"
+            "Team Sprayer SMG"
+            "Treadplate Tormenter SMG"
+            "Woodsy Widowmaker SMG"
+            "Wildwood SMG"
+            "High Roller's SMG"
+            "Blue Mew SMG"
+            "Blitzkrieg SMG"
+        ]
+        [
+            "Razorback"
+        ]
+        [
+            "Jarate"
+            "Festive Jarate"
+            "Self-Aware Beauty Mark"
+        ]
+        [
+            "Darwin's Danger Shield"
+        ]
+        [
+            "Cozy Camper"
+        ]
+        [
+            "Cleaner's Carbine"
+        ]
     ]
-    [
-        "Jarate"
-        "Festive Jarate"
-        "Self-Aware Beauty Mark"
+    melee: [
+        [
+            "Kukri"
+            "Frying Pan"
+            "Saxxy"
+            "Conscientious Objector"
+            "Freedom Staff"
+            "Bat Outta Hell"
+            "Memory Maker"
+            "Ham Shank"
+            "Golden Frying Pan"
+            "Necro Smasher"
+            "Crossing Guard"
+        ]
+        [
+            "Tribalman's Shiv"
+        ]
+        [
+            "Bushwacka"
+        ]
+        [
+            "Shahanshah"
+        ]
     ]
-    [
-        "Darwin's Danger Shield"
-    ]
-    [
-        "Cozy Camper"
-    ]
-    [
-        "Cleaner's Carbine"
-    ]
-]
-melee: [
-    [
-        "Kukri"
-        "Frying Pan"
-        "Saxxy"
-        "Conscientious Objector"
-        "Freedom Staff"
-        "Bat Outta Hell"
-        "Memory Maker"
-        "Ham Shank"
-        "Golden Frying Pan"
-        "Necro Smasher"
-        "Crossing Guard"
-    ]
-    [
-        "Tribalman's Shiv"
-    ]
-    [
-        "Bushwacka"
-    ]
-    [
-        "Shahanshah"
-    ]
-]

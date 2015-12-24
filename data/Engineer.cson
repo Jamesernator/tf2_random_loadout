@@ -1,9 +1,12 @@
+class: "Engineer"
+
 slots: [
     "primary"
     "secondary"
     "melee"
     "pda"
     "pda2"
+    "building"
 ]
 
 stock:
@@ -12,6 +15,7 @@ stock:
     melee: "Wrench"
     pda: "Construction PDA"
     pda2: "Destruction PDA"
+    building: "PDA"
 
 weapons:
     primary: [
@@ -22,6 +26,11 @@ weapons:
             "Civic Duty Shotgun"
             "Lightning Rod Shotgun"
             "Rustic Ruiner Shotgun"
+            "Autumn Shotgun"
+            "Coffin Nail Shotgun"
+            "Dressed to Kill Shotgun"
+            "Flower Power Shotgun"
+            "Red Bear Shotgun"
         ]
         [
             "Frontier Justice"
@@ -50,10 +59,19 @@ weapons:
             "Local Hero Pistol"
             "Red Rock Roscoe Pistol"
             "Sandstone Special Pistol"
+            "C.A.P.P.E.R"
+            "Macabre Web Pistol"
+            "Nutcracker Pistol"
+            "Dressed to Kill Pistol"
+            "Blue Mew Pistol"
+            "Shot to Hell Pistol"
+            "Brain Candy Pistol"
+            "Blitzkrieg Pistol"
         ]
         [
             "Wrangler"
             "Festive Wrangler"
+            "Giger Counter"
         ]
         [
             "Short Circuit"
@@ -75,6 +93,13 @@ weapons:
             "Gold Botkiller Wrench Mk.II"
             "Golden Frying Pan"
             "Necro Smasher"
+            "Boneyard Wrench"
+            "Autumn Wrench"
+            "Nutcracker Wrench"
+            "Top Shelf Wrench"
+            "Dressed to Kill Wrench"
+            "Torqued to Hell Wrench"
+            "Airwolf Wrench"
         ]
         [
             "Gunslinger"

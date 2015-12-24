@@ -1,3 +1,5 @@
+class: "Medic"
+
 slots: [
     'primary'
     'secondary'
@@ -42,6 +44,13 @@ weapons:
             "Reclaimed Reanimator Medi Gun"
             "Spark of Life Medi Gun"
             "Wrapped Reviver Medi Gun"
+            "Wildwood Medi Gun"
+            "High Roller's Medi Gun"
+            "Coffin Nail Medi Gun"
+            "Dressed to Kill Medi Gun"
+            "Flower Power Medi Gun"
+            "Corsair Medi Gun"
+            "Blitzkrieg Medi Gun"
         ]
         [
             "Kritzkrieg"

@@ -1,109 +1,140 @@
-primary: [
-    [
-        "Scattergun"
-        "Festive Scattergun"
-        "Silver Botkiller Scattergun Mk.I"
-        "Gold Botkiller Scattergun Mk.I"
-        "Rust Botkiller Scattergun Mk.I"
-        "Blood Botkiller Scattergun Mk.I"
-        "Carbonado Botkiller Scattergun Mk.I"
-        "Diamond Botkiller Scattergun Mk.I"
-        "Silver Botkiller Scattergun Mk.II"
-        "Gold Botkiller Scattergun Mk.II"
-        "Backcountry Blaster Scattergun"
-        "Country Crusher Scattergun"
-        "Current Event Scattergun"
-        "Night Terror Scattergun"
-        "Spruce Deuce Scattergun"
-        "Tartan Torpedo Scattergun"
-    ]
-    [
-        "Force-A-Nature"
-        "Festive Force-A-Nature"
-    ]
-    [
-        "Shortstop"
-    ]
-    [
-        "Soda Popper"
-    ]
-    [
-        "Baby Face's Blaster"
-    ]
-    [
-        "Back Scatter"
-    ]
+class: "Scout"
+
+slots: [
+    "primary"
+    "secondary"
+    "melee"
 ]
-secondary: [
-    [
-        "Pistol"
-        "Lugermorph"
-        "Black Dahlia Pistol"
-        "Hickory Hole-Puncher Pistol"
-        "Homemade Heater Pistol"
-        "Local Hero Pistol"
-        "Red Rock Roscoe Pistol"
-        "Sandstone Special Pistol"
+
+stock:
+    primary: "Scattergun"
+    secondary: "Pistol"
+    melee: "Bat"
+
+weapons:
+    primary: [
+        [
+            "Scattergun"
+            "Festive Scattergun"
+            "Silver Botkiller Scattergun Mk.I"
+            "Gold Botkiller Scattergun Mk.I"
+            "Rust Botkiller Scattergun Mk.I"
+            "Blood Botkiller Scattergun Mk.I"
+            "Carbonado Botkiller Scattergun Mk.I"
+            "Diamond Botkiller Scattergun Mk.I"
+            "Silver Botkiller Scattergun Mk.II"
+            "Gold Botkiller Scattergun Mk.II"
+            "Backcountry Blaster Scattergun"
+            "Country Crusher Scattergun"
+            "Current Event Scattergun"
+            "Night Terror Scattergun"
+            "Spruce Deuce Scattergun"
+            "Tartan Torpedo Scattergun"
+            "Macabre Web Scattergun"
+            "Nutcracker Scattergun"
+            "Coffin Nail Scattergun"
+            "Blue Mew Scattergun"
+            "Shot to Hell Scattergun"
+            "Flower Power Scattergun"
+            "Killer Bee Scattergun"
+            "Corsair Scattergun"
+        ]
+        [
+            "Force-A-Nature"
+            "Festive Force-A-Nature"
+        ]
+        [
+            "Shortstop"
+        ]
+        [
+            "Soda Popper"
+        ]
+        [
+            "Baby Face's Blaster"
+        ]
+        [
+            "Back Scatter"
+        ]
     ]
-    [
-        "Bonk! Atomic Punch"
-        "Festive Bonk! Atomic Punch"
+    secondary: [
+        [
+            "Pistol"
+            "Lugermorph"
+            "Black Dahlia Pistol"
+            "Hickory Hole-Puncher Pistol"
+            "Homemade Heater Pistol"
+            "Local Hero Pistol"
+            "Red Rock Roscoe Pistol"
+            "Sandstone Special Pistol"
+            "C.A.P.P.E.R"
+            "Macabre Web Pistol"
+            "Nutcracker Pistol"
+            "Dressed to Kill Pistol"
+            "Blue Mew Pistol"
+            "Shot to Hell Pistol"
+            "Brain Candy Pistol"
+            "Blitzkrieg Pistol"
+        ]
+        [
+            "Bonk! Atomic Punch"
+            "Festive Bonk! Atomic Punch"
+        ]
+        [
+            "Crit-a-Cola"
+        ]
+        [
+            "Mad Milk"
+            "Mutated Milk"
+        ]
+        [
+            "Winger"
+        ]
+        [
+            "Pretty Boy's Pocket Pistol"
+        ]
+        [
+            "Flying Guillotine"
+        ]
     ]
-    [
-        "Crit-a-Cola"
+    melee: [
+        [
+            "Bat"
+            "Holy Mackerel"
+            "Frying Pan"
+            "Saxxy"
+            "Conscientious Objector"
+            "Unarmed Combat"
+            "Festive Bat"
+            "Freedom Staff"
+            "Bat Outta Hell"
+            "Memory Maker"
+            "Festive Holy Mackerel"
+            "Ham Shank"
+            "Golden Frying Pan"
+            "Necro Smasher"
+            "Crossing Guard"
+            "Batsaber"
+        ]
+        [
+            "Sandman"
+        ]
+        [
+            "Candy Cane"
+        ]
+        [
+            "Boston Basher"
+            "Three-Rune Blade"
+        ]
+        [
+            "Sun-on-a-Stick"
+        ]
+        [
+            "Fan O'War"
+        ]
+        [
+            "Atomizer"
+        ]
+        [
+            "Wrap Assassin"
+        ]
     ]
-    [
-        "Mad Milk"
-        "Mutated Milk"
-    ]
-    [
-        "Winger"
-    ]
-    [
-        "Pretty Boy's Pocket Pistol"
-    ]
-    [
-        "Flying Guillotine"
-    ]
-]
-melee: [
-    [
-        "Bat"
-        "Holy Mackerel"
-        "Frying Pan"
-        "Saxxy"
-        "Conscientious Objector"
-        "Unarmed Combat"
-        "Festive Bat"
-        "Freedom Staff"
-        "Bat Outta Hell"
-        "Memory Maker"
-        "Festive Holy Mackerel"
-        "Ham Shank"
-        "Golden Frying Pan"
-        "Necro Smasher"
-        "Crossing Guard"
-    ]
-    [
-        "Sandman"
-    ]
-    [
-        "Candy Cane"
-    ]
-    [
-        "Boston Basher"
-        "Three-Rune Blade"
-    ]
-    [
-        "Sun-on-a-Stick"
-    ]
-    [
-        "Fan O'War"
-    ]
-    [
-        "Atomizer"
-    ]
-    [
-        "Wrap Assassin"
-    ]
-]

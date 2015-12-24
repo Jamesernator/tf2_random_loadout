@@ -1,3 +1,5 @@
+class: "Heavy"
+
 slots: [
     "primary"
     "secondary"
@@ -29,6 +31,15 @@ weapons:
             "Iron Wood Minigun"
             "Lightning Rod Shotgun"
             "War Room Minigun"
+            "Pumpkin Patch Minigun"
+            "Macabre Web Minigun"
+            "Nutcracker Minigun"
+            "Top Shelf Minigun"
+            "Coffin Nail Minigun"
+            "Dressed to Kill Minigun"
+            "Mister Cuddles Minigun"
+            "Brain Candy Minigun"
+            "Butcher Bird Minigun"
         ]
         [
             "Natascha"
@@ -50,6 +61,11 @@ weapons:
             "Backwoods Boomstick Shotgun"
             "Civic Duty Shotgun"
             "Rustic Ruiner Shotgun"
+            "Autumn Shotgun"
+            "Coffin Nail Shotgun"
+            "Dressed to Kill Shotgun"
+            "Flower Power Shotgun"
+            "Red Bear Shotgun"
         ]
         [
             "Sandvich"

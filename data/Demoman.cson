@@ -1,3 +1,5 @@
+class: "Demoman"
+
 slots: [
     "primary"
     "secondary"
@@ -14,6 +16,14 @@ weapons:
         [
             "Grenade Launcher"
             "Festive Grenade Launcher"
+            "Macabre Web Grenade Launcher"
+            "Autumn Grenade Launcher"
+            "Top Shelf Grenade Launcher"
+            "Coffin Nail Grenade Launcher"
+            "Rainbow Grenade Launcher"
+            "Sweet Dreams Grenade Launcher"
+            "Warhawk Grenade Launcher"
+            "Butcher Bird Grenade Launcher"
         ]
         [
             "B.A.S.E. Jumper"
@@ -50,6 +60,13 @@ weapons:
             "Pink Elephant Stickybomb Launcher"
             "Rooftop Wrangler Stickybomb Launcher"
             "Sudden Flurry Stickybomb Launcher"
+            "Pumpkin Patch Stickybomb Launcher"
+            "Macabre Web Stickybomb Launcher"
+            "Autumn Stickybomb Launcher"
+            "Coffin Nail Stickybomb Launcher"
+            "Dressed to Kill Stickybomb Launcher"
+            "Sweet Dreams Stickybomb Launcher"
+            "Blitzkrieg Stickybomb Launcher"
         ]
         [
             "Scottish Resistance"

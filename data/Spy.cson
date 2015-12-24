@@ -1,83 +1,116 @@
-melee: [
-    [
-        "Knife"
-        "Saxxy"
-        "Sharp Dresser"
-        "Festive Knife"
-        "Black Rose"
-        "Silver Botkiller Knife Mk.I"
-        "Gold Botkiller Knife Mk.I"
-        "Rust Botkiller Knife Mk.I"
-        "Blood Botkiller Knife Mk.I"
-        "Carbonado Botkiller Knife Mk.I"
-        "Diamond Botkiller Knife Mk.I"
-        "Silver Botkiller Knife Mk.II"
-        "Gold Botkiller Knife Mk.II"
-        "Golden Frying Pan"
-    ]
-    [
-        "Your Eternal Reward"
-        "Wanga Prick"
-    ]
-    [
-        "Conniver's Kunai"
-    ]
-    [
-        "Big Earner"
-    ]
-    [
-        "Spy-cicle"
-    ]
+class: "Spy"
+
+slots: [
+    "melee"
+    "secondary"
+    "pda"
+    "pda2"
+    "building"
 ]
-secondary: [
-    [
-        "Revolver"
-        "Big Kill"
-        "Festive Revolver"
-        "Dead Reckoner Revolver"
-        "Mayor Revolver"
-        "Old Country Revolver"
+
+stock:
+    melee: "Knife"
+    secondary: "Revolver"
+    pda: "Disguise Kit"
+    pda2: "Invis Watch"
+    building: "Sapper"
+
+weapons:
+    melee: [
+        [
+            "Knife"
+            "Saxxy"
+            "Sharp Dresser"
+            "Festive Knife"
+            "Black Rose"
+            "Silver Botkiller Knife Mk.I"
+            "Gold Botkiller Knife Mk.I"
+            "Rust Botkiller Knife Mk.I"
+            "Blood Botkiller Knife Mk.I"
+            "Carbonado Botkiller Knife Mk.I"
+            "Diamond Botkiller Knife Mk.I"
+            "Silver Botkiller Knife Mk.II"
+            "Gold Botkiller Knife Mk.II"
+            "Golden Frying Pan"
+            "Boneyard Knife"
+            "Top Shelf Knife"
+            "Dressed to Kill Knife"
+            "Blue Mew Knife"
+            "Stabbed to Hell Knife"
+            "Brain Candy Knife"
+            "Airwolf Knife"
+            "Blitzkrieg Knife"
+        ]
+        [
+            "Your Eternal Reward"
+            "Wanga Prick"
+        ]
+        [
+            "Conniver's Kunai"
+        ]
+        [
+            "Big Earner"
+        ]
+        [
+            "Spy-cicle"
+        ]
     ]
-    [
-        "Ambassador"
-        "Festive Ambassador"
+    secondary: [
+        [
+            "Revolver"
+            "Big Kill"
+            "Festive Revolver"
+            "Dead Reckoner Revolver"
+            "Mayor Revolver"
+            "Old Country Revolver"
+            "Boneyard Revolver"
+            "Macabre Web Revolver"
+            "Wildwood Revolver"
+            "Top Shelf Revolver"
+            "Coffin Nail Revolver"
+            "Flower Power Revolver"
+            "Blitzkrieg Revolver"
+        ]
+        [
+            "Ambassador"
+            "Festive Ambassador"
+        ]
+        [
+            "L'Etranger"
+        ]
+        [
+            "Enforcer"
+        ]
+        [
+            "Diamondback"
+        ]
     ]
-    [
-        "L'Etranger"
+    pda: [
+        [
+            "Disguise Kit"
+        ]
     ]
-    [
-        "Enforcer"
+    pda2: [
+        [
+            "Invis Watch"
+            "Enthusiast's Timepiece"
+            "Quäckenbirdt"
+        ]
+        [
+            "Dead Ringer"
+        ]
+        [
+            "Cloak and Dagger"
+        ]
     ]
-    [
-        "Diamondback"
+    building: [
+        [
+            "Sapper"
+            "Ap-Sap"
+            "Snack Attack"
+            "Festive Sapper"
+        ]
+        [
+            "Red-Tape Recorder"
+        ]
     ]
-]
-pda: [
-    [
-        "Disguise Kit"
-    ]
-]
-pda2: [
-    [
-        "Invis Watch"
-        "Enthusiast's Timepiece"
-        "Quäckenbirdt"
-    ]
-    [
-        "Dead Ringer"
-    ]
-    [
-        "Cloak and Dagger"
-    ]
-]
-building: [
-    [
-        "Sapper"
-        "Ap-Sap"
-        "Snack Attack"
-        "Festive Sapper"
-    ]
-    [
-        "Red-Tape Recorder"
-    ]
-]
